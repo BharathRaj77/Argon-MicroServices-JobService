@@ -1,0 +1,14 @@
+C:\MicroServices\JobsService\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\MicroServices\JobsService\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\MicroServices\JobsService\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\MicroServices\JobsService\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\MicroServices\JobsService\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\MicroServices\JobsService\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\MicroServices\JobsService\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\MicroServices\JobsService\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\MicroServices\JobsService\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+C:\MicroServices\JobsService\DataAccess\bin\Debug\netstandard2.0\App.dll
+C:\MicroServices\JobsService\DataAccess\bin\Debug\netstandard2.0\Domain.dll
+C:\MicroServices\JobsService\DataAccess\bin\Debug\netstandard2.0\App.pdb
+C:\MicroServices\JobsService\DataAccess\bin\Debug\netstandard2.0\Domain.pdb
+C:\MicroServices\JobsService\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete

@@ -1,0 +1,14 @@
+C:\MicroServices\OffersService\WebApi\bin\Debug\netcoreapp2.2\WebApi.deps.json
+C:\MicroServices\OffersService\WebApi\bin\Debug\netcoreapp2.2\WebApi.runtimeconfig.json
+C:\MicroServices\OffersService\WebApi\bin\Debug\netcoreapp2.2\WebApi.runtimeconfig.dev.json
+C:\MicroServices\OffersService\WebApi\bin\Debug\netcoreapp2.2\WebApi.dll
+C:\MicroServices\OffersService\WebApi\bin\Debug\netcoreapp2.2\WebApi.pdb
+C:\MicroServices\OffersService\WebApi\obj\Debug\netcoreapp2.2\WebApi.csprojAssemblyReference.cache
+C:\MicroServices\OffersService\WebApi\obj\Debug\netcoreapp2.2\WebApi.csproj.CoreCompileInputs.cache
+C:\MicroServices\OffersService\WebApi\obj\Debug\netcoreapp2.2\WebApi.RazorAssemblyInfo.cache
+C:\MicroServices\OffersService\WebApi\obj\Debug\netcoreapp2.2\WebApi.RazorAssemblyInfo.cs
+C:\MicroServices\OffersService\WebApi\obj\Debug\netcoreapp2.2\WebApi.AssemblyInfoInputs.cache
+C:\MicroServices\OffersService\WebApi\obj\Debug\netcoreapp2.2\WebApi.AssemblyInfo.cs
+C:\MicroServices\OffersService\WebApi\obj\Debug\netcoreapp2.2\WebApi.RazorTargetAssemblyInfo.cache
+C:\MicroServices\OffersService\WebApi\obj\Debug\netcoreapp2.2\WebApi.dll
+C:\MicroServices\OffersService\WebApi\obj\Debug\netcoreapp2.2\WebApi.pdb

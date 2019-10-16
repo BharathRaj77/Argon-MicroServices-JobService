@@ -1,0 +1,12 @@
+C:\MicroServices\JobsService\App\bin\Debug\netstandard2.0\App.deps.json
+C:\MicroServices\JobsService\App\bin\Debug\netstandard2.0\App.dll
+C:\MicroServices\JobsService\App\bin\Debug\netstandard2.0\App.pdb
+C:\MicroServices\JobsService\App\bin\Debug\netstandard2.0\Domain.dll
+C:\MicroServices\JobsService\App\bin\Debug\netstandard2.0\Domain.pdb
+C:\MicroServices\JobsService\App\obj\Debug\netstandard2.0\App.csprojAssemblyReference.cache
+C:\MicroServices\JobsService\App\obj\Debug\netstandard2.0\App.csproj.CoreCompileInputs.cache
+C:\MicroServices\JobsService\App\obj\Debug\netstandard2.0\App.AssemblyInfoInputs.cache
+C:\MicroServices\JobsService\App\obj\Debug\netstandard2.0\App.AssemblyInfo.cs
+C:\MicroServices\JobsService\App\obj\Debug\netstandard2.0\App.csproj.CopyComplete
+C:\MicroServices\JobsService\App\obj\Debug\netstandard2.0\App.dll
+C:\MicroServices\JobsService\App\obj\Debug\netstandard2.0\App.pdb
